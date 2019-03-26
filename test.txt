@@ -1,2 +1,2 @@
-test DSMI
+DSMI
 DSMI
